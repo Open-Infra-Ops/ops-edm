@@ -1,0 +1,10 @@
+email_server_address: 'lists.osinfra.cn'
+email_server_port: 465
+email_login_username: '***'
+email_login_pwd: '***'
+email_from_email: 'infra@lists.osinfra.cn'
+email_from_name: 'infra'
+email_subject: '基础设施运维月报'
+email_sender_email:
+  - abc@qq.com
+  - abc@163.com
